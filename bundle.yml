@@ -1,8 +1,8 @@
 name: "console"
-type": "extension"
+type: "extension"
 description: "コンソールログを使用するためのエクステンションクラス"
-keywords: "log,debug.console",
-homepage: "http://www.enviphp.net/",
+keywords: "log,debug.console"
+homepage: "http://www.enviphp.net/"
 license: "LGPL-2.0"
 authors:
     -
