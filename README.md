@@ -6,12 +6,9 @@
 `console()->log('fooo');`
 で、ブラウザのコンソールに、ログを出力できるようになるエクステンションです。
 
+詳しくはこちらをどうぞ
 
-MarkdownExtraに関する詳細は、
-
-https://michelf.ca/projects/php-markdown/extra/
-
-を参照して下さい。
+http://www.enviphp.net/c/man/v3/man/reference/EnviPHP%E3%81%8C%E7%94%A8%E6%84%8F%E3%81%99%E3%82%8B%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3/ConsoleExtension/EnviConsoleExtension
 
 パッケージ管理
 --------------------------------------------------
